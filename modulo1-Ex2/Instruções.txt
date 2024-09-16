@@ -7,8 +7,9 @@ criar uma pasta com o Nome Márcio Junior para não misturar com
 outros arquivos, depois no terminal e execute este comando: 
 git clone https://github.com/MarcioASSJ/MaisPraTi-Exercicios.git
 
-Feito isso irá aparecer na pasta escolhida, as pastas de exercícios, clique em modulo1-Ex2
-e clicar em cada um dos arquivose então rodar clicando no ícone play no topo a direita
-ou pressionando Ctrl+Alt+N, será exibido no terminal o resultado do código
+Feito isso irá aparecer na pasta escolhida, as pastas de exercícios, 
+clique em modulo1-Ex2, depois clicar em cada um dos arquivos e rodar 
+o mesmo clicando no ícone play no topo a direita ou pressionando Ctrl+Alt+N,
+será exibido no terminal o resultado do código.
 
 */
